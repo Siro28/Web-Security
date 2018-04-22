@@ -1,0 +1,3 @@
+In the terminal Windows copy-paste this command to install required software
+
+sudo apt-get install geoip-database libgeoip1 python-psutil python-requests tor openvpn -y
